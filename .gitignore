@@ -1,2 +1,4 @@
 glove.twitter.27B.100d.txt
 glove.twitter.27B.zip 
+fake_news_lstm.h5
+tokenizer.pkl
